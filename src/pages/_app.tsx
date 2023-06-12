@@ -2,7 +2,7 @@
 
 
 
-
+import "../styles/globals.css"
 import {Inter} from 'next/font/google'
 import {AppProps} from "next/app";
 import React, {useEffect} from "react";

@@ -2,9 +2,6 @@ import AppBar from "@/components/AppBar";
 import Form from "@/components/Form";
 export default function Home() {
 
-
-
-
     return (
         <div >
 

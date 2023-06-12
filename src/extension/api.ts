@@ -6,7 +6,7 @@ const api = () : AxiosInstance => {
     const api =
         axios.create(
             {
-                baseURL: process.env.NEXT_PUBLIC_BACKEND
+                baseURL: "https://selltop-backend.herokuapp.com"
                 , headers: {"Content-Type": "application/json"}
             }
         )

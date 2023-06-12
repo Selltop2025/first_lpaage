@@ -4,7 +4,7 @@
 const AppBar = () => {
 
     return (
-        <header className="fill">
+        <header>
             <nav>
                 <h5 className="max">SellTop</h5>
                 <button className="circle transparent">
